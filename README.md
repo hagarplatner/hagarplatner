@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hagarplatner
-- 👀 I’m interested in XR, 3D and Unreal Engine
-- 💞️ I’m looking to collaborate on XR projects
+- 👀 Unreal Engine & Augmented Reality Technical Artist
+- 💞️ looking to collaborate on XR projects
 - 📫 How to reach me: hagar.platner@gmail.com
 
 <!---
