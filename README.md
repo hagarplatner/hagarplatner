@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hagarplatner
-- 💞️ Unreal Engine & Augmented Reality Technical Artist
+- 💞️ Augmented Reality creative technologist
 - 👀 looking for collaborations
 - 📫 How to reach me: hagar.platner@gmail.com
 
